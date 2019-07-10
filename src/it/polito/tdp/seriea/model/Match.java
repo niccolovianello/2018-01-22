@@ -29,7 +29,6 @@ public class Match {
 	 * @param ftr
 	 */
 	public Match(int id, Season season, String div, LocalDate date, Team homeTeam, Team awayTeam, int fthg, int ftag, String ftr) {
-		super();
 		this.id = id;
 		this.season = season;
 		this.div = div;

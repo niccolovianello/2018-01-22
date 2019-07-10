@@ -5,7 +5,6 @@ public class Team {
 	private String team;
 
 	public Team(String team) {
-		super();
 		this.team = team;
 	}
 
